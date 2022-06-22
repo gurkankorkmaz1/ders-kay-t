@@ -1,0 +1,45 @@
+.lesson-item {
+  margin: 5px;
+  background-color: yellowgreen;
+  padding: 10px;
+  font-weight: 700;
+  width: 800px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.lesson-item-buttons{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 10px;
+}
+
+
+.lesson-item-remove-btn{
+    border-radius: 15px;
+    background-color: rgb(209, 36, 36);
+    color: #fff;
+    font-size: 20px;
+}
+
+.lesson-item-edit-btn{
+    border-radius: 15px;
+    background-color: rgb(36, 105, 209);
+    color: #fff;
+    font-size: 20px;
+
+}
+.lesson-item-ogrenci {
+    margin: 5px;
+    background-color: rgb(93, 105, 219);
+    padding: 10px;
+    font-weight: 700;
+    width: 600px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }

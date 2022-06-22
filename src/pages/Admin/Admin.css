@@ -1,0 +1,54 @@
+.admin-div {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.admin-panel {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.admin-lesson-edit-list {
+  margin-top: 50px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  align-items: center;
+}
+
+.admin-lesson-input {
+  width: 30%;
+  padding: 5px;
+  border-radius: 15px;
+}
+.input2 {
+  width: 50%;
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 15px;
+}
+
+.admin-lesson-edit-list-item {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.div-cerceve2{
+  margin-top: 20px;
+  background-color: gray;
+  width: 55%;
+  text-align: center;
+  border-radius: 40px;
+  padding-bottom: 30px;
+}
+.h1-warning{
+  color: rgb(204, 0, 0);
+}
